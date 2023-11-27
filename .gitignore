@@ -163,3 +163,5 @@ logs/
 
 # Cython debug symbols
 cython_debug/
+.DS_Store
+.gitignore
