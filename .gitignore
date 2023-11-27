@@ -148,7 +148,7 @@ venv.bak/
 dmypy.json
 
 # Datasets - large files can be excluded to avoid committing them into the repository
-#data/
+data/
 src/visualization/plot_settings.py
 
 # Pyre type checker
