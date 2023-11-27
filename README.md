@@ -4,20 +4,24 @@
 ```
 TennisDataInsights/
 ├── data
-│   ├── raw
-│   ├── interim
-│   └── processed
+│   ├── raw                 <- Der ursprüngliche, unveränderliche Datendump.
+│   ├── interim             <- Vorläufig verarbeitete Daten.
+│   └── processed           <- Endgültig verarbeitete und für die Analyse bereitgestellte Daten
+│
 ├── models
-├── notebooks
-├── references
-├── reports
-│   └── figures
+├── notebooks               <- Jupyter Notebooks für Datenanalyse und Modellierung
+├── references              <- Alle erläuternden Materialien
+├── reports                 <- Erzeugte Analysen als PDF
+│   └── figures             <- Erzeugte Grafiken und Abbildungen für die Berichterstattung
+│
 ├── src
-│   ├── data
+│   ├── data                <- Skripte zum Herunterladen oder Generieren von Daten
 │   ├── features
 │   ├── models
 │   └── visualization
+│
 ├── LICENSE
 ├── README
 └── requirements.txt
+
 ```
