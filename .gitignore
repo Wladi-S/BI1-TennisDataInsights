@@ -150,6 +150,7 @@ dmypy.json
 # Datasets - large files can be excluded to avoid committing them into the repository
 data/
 src/visualization/plot_settings.py
+references/Aufgabenstellung DSCB310 DABI 1.pdf
 
 # Pyre type checker
 .pyre/
