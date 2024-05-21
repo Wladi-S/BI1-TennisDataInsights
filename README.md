@@ -14,12 +14,6 @@ TennisDataInsights/
 ├── reports                 <- Erzeugte Analysen als PDF
 │   └── figures             <- Erzeugte Grafiken und Abbildungen für die Berichterstattung
 │
-├── src
-│   ├── data                <- Skripte zum Herunterladen oder Generieren von Daten
-│   ├── features
-│   ├── models
-│   └── visualization
-│
 ├── LICENSE
 ├── README
 └── requirements.txt
